@@ -1,0 +1,107 @@
+{
+  "name": "langchain",
+  "owner": {
+    "name": "Langchain"
+  },
+  "description": "Claude Code marketplace federating every @amlplugins/langchain-* plugin under a single marketplace source.",
+  "plugins": [
+    {
+      "name": "langchain-anthropic",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/langchain-anthropic.git"
+      }
+    },
+    {
+      "name": "langchain-aws",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/langchain-aws.git"
+      }
+    },
+    {
+      "name": "langchain-cohere",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/langchain-cohere.git"
+      }
+    },
+    {
+      "name": "langchain-community",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/langchain-community.git"
+      }
+    },
+    {
+      "name": "langchain-core",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/langchain-core.git"
+      }
+    },
+    {
+      "name": "langchain-google-genai",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/langchain-google-genai.git"
+      }
+    },
+    {
+      "name": "langchain-google-vertexai",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/langchain-google-vertexai.git"
+      }
+    },
+    {
+      "name": "langchain-groq",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/langchain-groq.git"
+      }
+    },
+    {
+      "name": "langchain-langgraph",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/langchain-langgraph.git"
+      }
+    },
+    {
+      "name": "langchain-meta",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/langchain-meta.git"
+      }
+    },
+    {
+      "name": "langchain-mistralai",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/langchain-mistralai.git"
+      }
+    },
+    {
+      "name": "langchain-ollama",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/langchain-ollama.git"
+      }
+    },
+    {
+      "name": "langchain-openai",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/langchain-openai.git"
+      }
+    },
+    {
+      "name": "langchain-pinecone",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/langchain-pinecone.git"
+      }
+    }
+  ]
+}
